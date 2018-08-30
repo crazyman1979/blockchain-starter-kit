@@ -8,7 +8,6 @@
     "deploy-region": {
       "description": "The bluemix region",
       "type": "string",
-      "pattern": "^(ibm:yp:us-south|ibm:ys1:us-south)$"
     },
     "deploy-organization": {
       "description": "The bluemix org",
